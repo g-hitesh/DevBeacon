@@ -10,16 +10,16 @@ export default function Home() {
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
+          <div className="bg-white  p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-bold mb-4">Featured Articles</h2>
-            <p className="text-gray-600 dark:text-gray-300">
+            <p className="text-gray-600 ">
               Discover the latest articles from our community of developers.
             </p>
           </div>
           
-          <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
+          <div className="bg-white  p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-bold mb-4">Join the Community</h2>
-            <p className="text-gray-600 dark:text-gray-300">
+            <p className="text-gray-600 ">
               Connect with other developers, share your knowledge, and grow together.
             </p>
           </div>
